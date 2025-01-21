@@ -14,4 +14,4 @@ A full-stack application demonstrating integration with PayPal and PhonePe payme
 
 1. Clone the repository
 ```bash
-git clone https://github.com/surajpaikekar/Payment-Gateway-PayPal-PhonePe.git
+git clone https://github.com/surajpaikekar/payment-gateway.git
