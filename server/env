@@ -1,0 +1,6 @@
+PAYPAL_CLIENT_ID=your_paypal_client_id
+PAYPAL_SECRET=your_paypal_secret
+PHONEPE_MERCHANT_ID=your_phonepe_merchant_id
+PHONEPE_API_KEY=your_phonepe_api_key
+
+

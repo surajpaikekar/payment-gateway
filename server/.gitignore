@@ -1,0 +1,25 @@
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Dependencies
+node_modules/
+/client/node_modules/
+/server/node_modules/
+
+# Build files
+/client/build/
+/client/dist/
+/server/build/
+/server/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE specific files
+.vscode/
+.idea/
